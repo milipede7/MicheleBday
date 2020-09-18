@@ -1,0 +1,23 @@
+body{
+  font-size: 80px;
+  font-family:"Lucida Console", Monaco, monospace;
+  background-image: url("/Arizona.gif");
+  background-size: cover;
+  padding: 1em;
+  box-shadow: 0px 0px 200px white;
+  margin: 100px;
+  color: white;
+}
+
+canvas {
+  border-radius: 100%;
+  margin-left: 40%;
+  margin-top: 3%;
+  /* box-shadow: 0px 0px 50px blue, 0px 0px 75px red, 0px 0px 100px green; */
+  box-shadow: 0px 0px 50px white;
+  border: 5px solid salmon;
+}
+
+#love{
+  font-size:40px;
+}
