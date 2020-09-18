@@ -1,7 +1,7 @@
 body{
   font-size: 80px;
   font-family:"Lucida Console", Monaco, monospace;
-  background-image: url("/MicheleBday/Arizona.gif");
+  background-image: url("Arizona.gif");
   background-color: Black;
   background-size: cover;
   padding: 1em;
@@ -20,5 +20,5 @@ canvas {
 }
 
 #love{
-  font-size:40px;
+  font-size:30px;
 }
