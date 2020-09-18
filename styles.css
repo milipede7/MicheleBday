@@ -6,8 +6,9 @@ body{
   background-size: cover;
   padding: 1em;
   box-shadow: 0px 0px 200px white;
-  margin: 100px;
+  margin: 50px;
   color: white;
+  display: inline-block;
 }
 
 canvas {
@@ -21,4 +22,13 @@ canvas {
 
 #love{
   font-size:30px;
+  display: inline-block;
+  position: sticky;
+  top: 0;
+}
+
+#love:hover{
+  box-shadow: 0px 0px 50px blue, 0px 0px 75px red, 0px 0px 100px green;
+  color: pink;
+  cursor: default;
 }
